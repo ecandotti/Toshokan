@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Toshokan</string>
+    <string name="a_propos">A PROPOS</string>
+    <string name="github">GITHUB</string>
+    <string name="twitter">TWITTER</string>
+    <string name="mail">MAIL</string>
+    <string name="footer">OpenSource Project | Created by Enzo Candotti</string>
+    <string name="like_button">AIMER</string>
+    <string name="share_button">PARTAGER</string>
+    <string name="desc_menu_header">MangaStore dans ta poche</string>
+    <string name="item1_menu">Accueil</string>
+    <string name="item2_menu">A propos</string>
+</resources>

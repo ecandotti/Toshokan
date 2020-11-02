@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="4dp"
+    app:cardCornerRadius="10dp">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="8dp">
+
+
+        <ImageView
+            android:id="@+id/mangaImg"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginEnd="8dp"
+            android:src="@drawable/ninja"
+            android:layout_marginRight="8dp"
+            tools:ignore="ContentDescription" />
+
+        <TextView
+            android:id="@+id/mangaTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@id/mangaImg"
+            android:layout_toRightOf="@id/mangaImg"
+            android:text="Line 1"
+            android:textColor="@android:color/black"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:id="@+id/mangaDesc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/mangaTitle"
+            android:layout_toEndOf="@id/mangaImg"
+            android:layout_toRightOf="@id/mangaImg"
+            android:text="Line 2"
+            tools:ignore="HardcodedText" />
+
+        <Button
+            android:id="@+id/mangaBunttoLike"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_below="@id/mangaDesc"
+            android:layout_marginTop="10dp"
+            android:text="@string/like_button" />
+
+        <Button
+            android:id="@+id/mangaButtonShare"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_toRightOf="@id/mangaBunttoLike"
+            android:layout_toEndOf="@id/mangaBunttoLike"
+            android:layout_below="@id/mangaDesc"
+            android:layout_marginTop="10dp"
+            android:text="@string/share_button" />
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>
