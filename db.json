@@ -1,0 +1,35 @@
+
+{
+  "manga_list": [
+    {
+      "id": "1",
+      "title": "Naruto",
+      "desc": "Un ninja qui veut devenir hokage",
+      "img": "https://www.micromania.fr/dw/image/v2/BCRB_PRD/on/demandware.static/-/Sites-masterCatalog_Micromania/default/dwb0dd95a8/images/high-res/naruto-shippuden-bandeau-konoha_3_.jpg?sw=480&sh=480&sm=fit"
+    },
+    {
+      "id": "2",
+      "title": "One Piece",
+      "desc": "Luffy veut devenir roi des pirates",
+      "img": "https://iconarchive.com/download/i54293/crountch/one-piece-jolly-roger/Luffys-flag.ico"
+    },
+    {
+      "id": "3",
+      "title": "Death Note",
+      "desc": "Light veut faire la justice, comment ?",
+      "img": "https://www.iconninja.com/files/551/574/344/note-death-icon.png"
+    },
+    {
+      "id": "4",
+      "title": "Attaque des Titans",
+      "desc": "Eren veut exterminer tous les titans",
+      "img": "https://s3.eu-west-3.amazonaws.com/pikomit/badges/5ed58bc4d6c82b5b7d243018/54WCSsZm5rJH8YOXnddeO1WSHJ19861591054006846_256x256px.png"
+    },
+    {
+      "id": "5",
+      "title": "Dragon Ball Z",
+      "desc": "Goku un super sayan de folie",
+      "img": "https://pbs.twimg.com/profile_images/589425714073624576/sg9l3QfH.png"
+    }
+  ]
+}
