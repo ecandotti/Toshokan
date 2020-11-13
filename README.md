@@ -1,7 +1,6 @@
 <h1 align="center">
     <img height="250" hidth="250" src="https://i.pinimg.com/originals/e1/de/99/e1de99a598c38a545a57bcd75832a858.png">
 </h1>
-Rendez-vous dans la branch Master pour accéder au project AndroidStudio Kotlin
 
 # :panda_face: - Toshokan
 *<div align="center">Toshokan est une application mobile qui référence les mangas et donne la possibilité de se faire une liste personnalisée pour suivre les news sur les mangas choisis.</div>*
