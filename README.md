@@ -31,7 +31,7 @@ Efficacité ? Comme ça :thumbsup:
 - CardView / RecylcerView pour le listing et design des listes
 
 ## Implémentations :
-
+~~~bash
 -- RETROFIT2(Requete API REST) + GSON(parser le Json) + PICASSO(url>img)<br>
 
 <bq>implementation 'com.squareup.retrofit2:retrofit:2.9.0'<br>
@@ -42,6 +42,7 @@ Efficacité ? Comme ça :thumbsup:
 
 <bq>implementation 'androidx.cardview:cardview:1.0.0'<br>
 <bq>implementation 'androidx.recyclerview:recyclerview:1.1.0'<br>
+~~~
 
 ## :stars: Soutenir
 
